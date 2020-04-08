@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "trashcan"
+    url: /trashcan/
   - title: "쓰레기통"
-    url: https://sabinesoo.github.io/
+    url : /쓰레기통/
+  - title: "Abfalleimer"
+    url : /Abfalleimer/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
