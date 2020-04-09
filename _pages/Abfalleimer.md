@@ -1,5 +1,5 @@
 ---
 permalink: /Abfalleimer/
 tiltle: Abfalleimer
-layout: single
+layout: posts
 ---
