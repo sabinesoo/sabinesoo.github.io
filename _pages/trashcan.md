@@ -1,1 +1,4 @@
+---
 permalink: /trashcan/
+tilte: trashcan
+---
